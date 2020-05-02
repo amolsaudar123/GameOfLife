@@ -2,7 +2,7 @@ package com.ptc.plms.gol.oops;
 
 /**
  * 
- * @author hdhingra
+ * @author amol
  *
  */
 public class Cell {
